@@ -1,0 +1,6 @@
+{
+	"black_list"   : "blacklist",
+	"database"     : "synonymer.db",
+	"synonym_freq" : 0.80,
+	"word_freq"    : 0.99
+}
